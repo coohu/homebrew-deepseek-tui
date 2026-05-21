@@ -5,7 +5,7 @@ Homebrew tap for [DeepSeek TUI](https://github.com/Hmbown/DeepSeek-TUI) — a te
 ## Install
 
 ```bash
-brew tap Hmbown/deepseek-tui
+brew tap coohu/deepseek-tui
 brew install deepseek-tui
 ```
 

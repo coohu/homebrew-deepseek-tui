@@ -1,6 +1,6 @@
 # homebrew-deepseek-tui
 
-Homebrew tap for [DeepSeek TUI](https://github.com/Hmbown/DeepSeek-TUI) — a terminal-native coding agent for DeepSeek V4.
+Homebrew tap for [DeepSeek TUI](https://github.com/coohu/DeepSeek-TUI) — a terminal-native coding agent for DeepSeek V4.
 
 ## Install
 
